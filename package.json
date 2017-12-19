@@ -1,0 +1,16 @@
+{
+  "name": "names_app",
+  "version": "1.0.0",
+  "description": "adding and removing people from the list",
+  "main": "index.js",
+  "scripts": {
+    "server-start": "node .\\node_modules\\http-server\\bin\\http-server -p 7000"
+  },
+  "author": "Dima K",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.4",
+    "http-server": "^0.10.0"
+  }
+}
